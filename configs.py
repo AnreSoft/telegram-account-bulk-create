@@ -1,0 +1,8 @@
+BASE_URL = "https://web.telegram.org/k/"
+# BASE_URL = "https://www.whatismyip.com/"
+LESS_SECURE_URL = "https://myaccount.google.com/lesssecureapps"
+FIRST_NAME  = "Jonathan"
+LAST_NAME = "Perez"
+PHONE = "13059007270"
+USER_ID = "jasonpostingtest"
+PASSWORD = "Tyler.1969!!!"
